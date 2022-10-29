@@ -1,0 +1,7 @@
+type Note @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  note: String!
+  tipo: String
+  prioridad: String
+}
+ 
