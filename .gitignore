@@ -24,3 +24,4 @@ yarn-error.log*
 
 # ignorado de AUTH
 /src/aws-exports.js
+/extras
